@@ -1,0 +1,5 @@
+Theme name:    Escape
+Description:   A nice little custom theme for the Down The Hatch blog.
+Author name:   Escape Hatch
+Author site:   http://escapehatch.co
+License:       Nah.
